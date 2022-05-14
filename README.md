@@ -1,3 +1,5 @@
+#Exchange Rate APP
+
 În cadrul acestui proiect am realizat o aplicație care are ca scop returnarea sumei reieșite în urma unui schimb valutar, pe baza unei sume de bani introdusă, moneda în care este suma respectivă și moneda în care vrei sa schimbi suma. În final rezultatul acestui proces de Exchange Rate este trimis pe mail către un destinatar pe care îl putem alege.
 
 Pentru a avea informațiile legate de ratele de schimb valutar am folosit API-ul site-ului Apilayer (https://apilayer.com/marketplace/description/exchangerates_data-api#authentication). Logica din spate este că atunci când completăm cu Suma de bani, moneda acelei sume și moneda în care vrem să schimbăm banii respectivi se va returna un JSON cu calculul noii sume de bani. API Key-ul site-ului utilizat este salvat în fișierul .env și este utilizat atunci când facem un request ca url.
