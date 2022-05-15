@@ -38,5 +38,5 @@ Pentru trimiterea acestei informații pe mail, tot ce avem de făcut este să co
  
 
 Bibliografie: Seminar Cloud Computing, https://apilayer.com/marketplace/description/exchangerates_data-api#authentication
-Link youtube:  
-Link heroku back: https://frozen-beach-52315.herokuapp.com/ link heroku front: https://gentle-scrubland-90823.herokuapp.com/
+Link youtube:  https://youtu.be/4N_An1JMzdw
+Link heroku back:  link heroku front: 
